@@ -18,10 +18,10 @@ const handleSubmit = (e) => {
    console.log("Password:", password)
 
    // Reset form
-    setUsername("")
-    setEmail("")
-    setMobile("")
-    setPassword("")
+    // setUsername("")
+    // setEmail("")
+    // setMobile("")
+    // setPassword("")
 
 
 }
